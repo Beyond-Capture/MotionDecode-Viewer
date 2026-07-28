@@ -1,0 +1,9 @@
+# Dependencies for Unitree G1 CSV to FBX Converter
+
+numpy>=2.0.0
+scipy>=1.15.0
+
+# Autodesk FBX Python SDK (Python 3.10 Wheel)
+# Install via local SDK path:
+# pip install "C:\Program Files\Autodesk\FBX\FBX Python SDK\2020.3.7\fbx-2020.3.7-cp310-none-win_amd64.whl"
+fbx @ file:///C:/Program%20Files/Autodesk/FBX/FBX%20Python%20SDK/2020.3.7/fbx-2020.3.7-cp310-none-win_amd64.whl
