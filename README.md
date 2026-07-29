@@ -183,7 +183,6 @@ Verified working in:
   skeleton geometry and meshes come directly from their work. See that
   repository (and `g1_description/README.md`) for details, and check its
   license/terms before redistributing those files.
-- The example motion CSVs are provided for demonstration purposes.
 
 ## License
 
